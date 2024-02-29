@@ -1,0 +1,11 @@
+node_modules
+.nuxt
+dist
+
+package.json
+package-lock.json
+tsconfig.json
+
+*.md
+
+public/
